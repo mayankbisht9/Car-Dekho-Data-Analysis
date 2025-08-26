@@ -96,7 +96,6 @@ Watch the interactive dashboard in action: [Dashboard Demo Video](Images/Car%20D
 **Mayank Bisht**
 - 💼 LinkedIn: [mayank-bisht-322051234](https://www.linkedin.com/in/mayank-bisht-322051234/)
 - 📧 Email: mayankbisht9891@gmail.com
-- 🌐 Portfolio: [Your Portfolio Link]
 
 ---
 
