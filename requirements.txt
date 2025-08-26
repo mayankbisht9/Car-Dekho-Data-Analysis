@@ -1,0 +1,11 @@
+# Core Data Analytics
+pandas==2.2.2
+numpy==1.24.4
+
+
+# Data Visualization
+matplotlib==3.7.5
+
+# Development Environment
+jupyterlab==4.0.9
+
